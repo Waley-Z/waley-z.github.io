@@ -2,6 +2,9 @@
 
 ### Project
 
+[EECS 498] CSE VR Simulator
+
+- [link](https://youtu.be/DkQEhOIJeu8)
 
 [EECS 494] Blockraft
 
