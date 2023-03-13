@@ -2,6 +2,10 @@
 
 ### Project
 
+[EECS 498] A2 Go!
+
+- [link](https://youtu.be/yW5PcPxd1QA)
+
 [EECS 498] CSE VR Simulator
 
 - [link](https://youtu.be/DkQEhOIJeu8)
