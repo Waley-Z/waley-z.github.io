@@ -14,7 +14,7 @@
 
 - [link](https://drive.google.com/drive/folders/1FmoPvVyzTfpD8jHEix-zSIBktljOwFib?usp=share_link)
 
-[EECS 494] Planetary Defense Project
+[EECS 494] Planetary Defense Program
 
 - [link](https://waley-z.github.io/planetary-defense-program-unity/)
 
