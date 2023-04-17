@@ -2,6 +2,10 @@
 
 ### Project
 
+[EECS 498] P3
+
+- [link](https://p3-devlog.webflow.io/)
+
 [EECS 498] A2 Go!
 
 - [link](https://youtu.be/yW5PcPxd1QA)
